@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adawntoremember
+a17e1681875e3c5af2fd75492a2f94c5d2e403c3- 👋 Hi, I’m @Adawntoremember
 - 👀 I’m interested in ...coding and quality assurance.
 - 🌱 I’m currently learning ... for a second time, I have a certification in Software Quality Assurance with ssome coding and few other things. However, it has been some time ago, about 10 years, roughly...relearning everything all over again.
 - 💞️ I’m looking to collaborate on ... I suppose on anything 
