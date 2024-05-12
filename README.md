@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adawntoremember
 - 👀 I’m interested in ...coding and quality assurance.
-- 🌱 I’m currently learning ... for a second time, I have a certification in Software Quality Assurance with ssome coding and few other things. However, it has been some time ago, about 10 years, roughly...relearning everything all over again.
+- 🌱 I’m currently learning ... for a second time, I have a certification in Software Quality Assurance with some coding and few other things. However, it has been some time ago, about 10 years, roughly...relearning everything all over again.
 - 💞️ I’m looking to collaborate on ... I suppose on anything 
 - 📫 Contact me at amiehancock1979@gmail.com 
 
